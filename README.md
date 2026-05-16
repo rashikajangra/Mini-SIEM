@@ -1,5 +1,4 @@
 #Mini SIEM — Log Analyzer Dashboard
-AI powered log analyzer and SIEM dashboard built with Python and Streamlit
 A lightweight, open-source Security Information and Event Management (SIEM) tool built with Python and Streamlit. Designed as a free alternative to enterprise tools like Splunk and QRadar.
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
