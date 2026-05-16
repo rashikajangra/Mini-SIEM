@@ -110,9 +110,9 @@ http://localhost:8501
 
 ##Screenshots
 -Dashboard with parsed SSH logs, brute force alert, and visual charts
-!<img width="1879" height="920" alt="image" src="https://github.com/user-attachments/assets/a3fd08f9-ec02-42c7-b10a-18f4a1d276ab" />
-!<img width="1881" height="911" alt="image" src="https://github.com/user-attachments/assets/05e55769-f16e-40a4-97ba-4312b2f421ab" />
-!<img width="1889" height="898" alt="image" src="https://github.com/user-attachments/assets/d4ea4a75-030f-416b-be3e-be6f919a061c" />
+<img width="1879" height="920" alt="image" src="https://github.com/user-attachments/assets/a3fd08f9-ec02-42c7-b10a-18f4a1d276ab" />
+<img width="1881" height="911" alt="image" src="https://github.com/user-attachments/assets/05e55769-f16e-40a4-97ba-4312b2f421ab" />
+<img width="1889" height="898" alt="image" src="https://github.com/user-attachments/assets/d4ea4a75-030f-416b-be3e-be6f919a061c" />
 
 
 ##Author
