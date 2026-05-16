@@ -100,11 +100,11 @@ http://localhost:8501
 
 
 ##Detection Rules
-|_Rule____________|_Log Type_|_Trigger________________________|_Severity_|
-|-----------------|----------|--------------------------------|----------|
-|_Brute Force_____|_SSH______|_3+ failed logins from same IP__|_Critical_|
-|_Brute Force_____|_Window___|_3+ EventID 4625 from same IP___|_Critical_|
-|_Suspicious Scan_|_Apache___|_3+ 404/500 errors from same IP_|_Warning__|
+|Rule|Log Type|Trigger|Severity|
+|-------|----------|-------------|----------|
+|Brute Force|SSH|3+ failed logins from same IP|Critical|
+|Brute Force|Window|3+ EventID 4625 from same IP|Critical_|
+|Suspicious Scan|Apache|3+ 404/500 errors from same IP|Warning|
 
 
 ##Screenshots
