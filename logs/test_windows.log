@@ -1,0 +1,7 @@
+#TEST WINDOWS LOG
+EventID: 4625 | Time: 2024-01-10 03:45:22 | User: Administrator | IP: 192.168.1.105 | Status: Failure
+EventID: 4625 | Time: 2024-01-10 03:45:23 | User: Administrator | IP: 192.168.1.105 | Status: Failure
+EventID: 4625 | Time: 2024-01-10 03:45:24 | User: Administrator | IP: 192.168.1.105 | Status: Failure
+EventID: 4624 | Time: 2024-01-10 03:46:10 | User: john | IP: 10.0.0.2 | Status: Success
+EventID: 4625 | Time: 2024-01-10 04:12:33 | User: admin | IP: 203.0.113.42 | Status: Failure
+EventID: 4634 | Time: 2024-01-10 04:13:00 | User: john | IP: 10.0.0.2 | Status: Logout
